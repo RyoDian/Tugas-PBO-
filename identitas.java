@@ -1,8 +1,4 @@
 
-/*public class identitas{
-    public static void main(String[] args){
-        System.out.print ("A11.2021.13837 . Maulana Tegar Ibrahim");
-       */
 	   public class identitas{
     public static void main(String[] args){
         String nama = "Ryo";
