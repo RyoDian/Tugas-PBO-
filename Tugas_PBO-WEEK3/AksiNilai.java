@@ -6,7 +6,7 @@ public class AksiNilai{
         Scanner input = new Scanner(System.in);
         String ulang = "Y";
         while (ulang.equals("Y")){
-            Person objNilai = new Person();
+            Nilai objNilai = new Nilai();
         objNilai.inputNilai();
         objNilai.cetakNilai();
             System.out.println("Ulangi lagi kah ? [Y/T]");
